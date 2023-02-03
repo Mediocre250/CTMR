@@ -4,7 +4,7 @@ Please unzip the data.zip file before running the code.
 
 ## Requirements
 |Package         |   Version|
------------------- -----------|
+------------------ |-----------|
 |networkx       |    2.6.3|
 |pandas         |    1.3.5|
 |scikit-learn   |    1.0.2|
