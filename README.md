@@ -21,6 +21,6 @@ For model training , use the command 'python train.py'.
 |tqdm           |    4.64.1|
 
 ## Pretrained
-The pre-trained files can be obtained through unzipping the data.zip file.
+The pre-trained files can be obtained through unzipping the data.zip file.<br>
 The pret-rained knowledge graph is save in the KGE folder while the pre-trained encoder is saved in trip_data foler.
 
