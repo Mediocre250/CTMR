@@ -1,5 +1,5 @@
-# CTRR
-The code for CTRR model (Cross-Task Region Reinforcement for Long Tail Next POI Recommendation)。<br>
+# CTMR
+The code for CTMR model (Cross-Task Multimodal Reinforcement for Long Tail Next POI Recommendation)。<br>
 Please unzip the data.zip file before running the code.
 
 ## Training
